@@ -1,0 +1,10 @@
+.one-elem{
+    width:84%;
+    padding:0.5rem 0.5rem;
+    border-radius:6px
+    
+}
+.one-elem:hover{
+
+    cursor:pointer
+}

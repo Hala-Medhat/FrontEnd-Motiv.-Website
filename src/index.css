@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Kalam&family=Lato:wght@300;400;700&family=Roboto:ital,wght@0,300;1,500;1,700&family=Special+Elite&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'DM Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+h2{
+  font-weight: 700;
+  font-size: 30px;
+  color:#242731;
+  margin: 0;
+}

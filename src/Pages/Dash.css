@@ -1,0 +1,10 @@
+.grid-dash-top{
+    width:25%;
+    min-width:200px;
+    padding-top: 0!important;
+}
+.one-grid-dash-top{
+    height:13rem;
+    border-radius:6px;
+    padding: 1rem
+}

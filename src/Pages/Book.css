@@ -1,0 +1,13 @@
+.fil{
+    font-size:0.75rem !important;
+        padding-top:2px !important;
+        padding-bottom:2px !important;
+        border-radius:50px !important;
+        background-color:white !important;
+        border-color:transparent !important;
+        color:#5F6165 !important;
+        font-weight:700 !important;
+}
+.fil:hover{
+    border-color:transparent !important ;
+}
