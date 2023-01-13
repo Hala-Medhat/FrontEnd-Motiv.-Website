@@ -19,5 +19,5 @@ Go to 'http://localhost:3000/Dashboard' or 'http://localhost:3000/'
 Go to 'http://localhost:3000/Booking'
 
 **Note 
-You can access 2 pages from NavBar **
+You can access 2 pages from NavBar**
 
