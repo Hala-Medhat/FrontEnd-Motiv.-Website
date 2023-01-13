@@ -10,14 +10,14 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 
-###DashBoard Page
+### DashBoard Page
 
 Go to 'http://localhost:3000/Dashboard' or 'http://localhost:3000/'
 
-###Booking Page 
+### Booking Page 
 
 Go to 'http://localhost:3000/Booking'
 
-*Note 
+**Note 
 You can access 2 pages from NavBar
 
